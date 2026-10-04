@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,3b82f6,0ea5e9,10b981&height=200&section=header&text=Prem%20Pawar&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Software%20Developer%20%7C%20Full-Stack%20MERN%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=18&descColor=f1f5f9" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Prem%20Pawar&fontSize=42&fontAlignY=38&desc=Software%20Developer%20--%20Full-Stack%20MERN%20--%20Data%20Science%20AI&descAlignY=58&descSize=18" width="100%" alt="Prem Pawar Banner" />
 
   <!-- Animated Typing Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Software+Developer+%26+B.Tech+IT+'27;Full-Stack+MERN+%26+React+Specialist;Data+Science+%26+Applied+AI+Enthusiast;Ambiora+Code+Vuyg+Hackathon+Winner+%F0%9F%8F%86;Problem+Solving+%26+System+Architecture+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Software+Developer+%26+B.Tech+IT+'27;Full-Stack+MERN+%26+React+Specialist;Data+Science+%26+Applied+AI+Enthusiast;Ambiora+Code+Vuyg+Hackathon+Winner+%F0%9F%8F%86;Problem+Solving+%26+System+Architecture+%F0%9F%92%A1" alt="Typing Headline" />
 
   <p align="center">
     <b>Building scalable web platforms, intuitive data products, and AI-driven solutions.</b>
@@ -33,17 +33,77 @@
 name: Prem Pawar
 role: Software Developer & Data Science Enthusiast
 education: B.Tech in Information Technology (2023 - 2027)
-institution: MPSTME, NMIMS University, Shirpur
-focus_areas: Full-Stack Web Development, Data Science Pipelines, Applied AI & Cloud
+institution: MPSTME, NMIMS University, Shirpur, Maharashtra
+focus_areas: Full-Stack Web Development, Data Science Pipelines, Applied AI & Cloud Systems
 hobbies: Algorithmic Problem Solving, Open Source Contributing, Technical Hackathons
 status: 🟢 Open to Software Engineering & Data Internships / Collaborations
 ```
 
 * 🎓 Pursuing **B.Tech in Information Technology** at **Mukesh Patel School of Technology Management & Engineering (MPSTME), NMIMS University**.
 * 🏆 **1st Place Winner** at *Ambiora Code Vuyg Hackathon 2026* and **2nd Runner Up** at *Yougantar SIH 2025*.
-* 🧩 Solved **400+ algorithmic challenges** in Data Structures & Algorithms.
-* 🌐 Contributor at **GirlScript Summer of Code (GSSoC)** & Former **Data Science Virtual Intern Coordinator**.
-* 💡 Passionate about architecting clean backend systems, intuitive user interfaces, and solving real-world challenges with robust code.
+* 🧩 Solved **400+ algorithmic challenges** in Data Structures & Algorithms across competitive coding platforms.
+* 🌐 Active contributor at **GirlScript Summer of Code (GSSoC)** & Former **Data Science Virtual Intern Coordinator**.
+* 💡 Passionate about understanding systems from grassroots fundamentals and solving real-world challenges with clean, robust code.
+
+---
+
+### 💼 Experience & Leadership
+
+* 📊 **Data Science Project Coordinator — Virtual Internship** *(Aug 2026 – Sep 2026)*
+  * Coordinated full-lifecycle data science project roadmap covering scoping, milestones, resource allocation, and risk management.
+  * Designed KPI-based monitoring and reporting frameworks using Python, supported model development, and delivered stakeholder presentations.
+* 🌐 **Open Source Contributor — GirlScript Summer of Code (GSSoC)** *(2025 – Present)*
+  * Contributed to open-source repositories with pull requests for UI modernization, bug fixes, and API optimizations.
+* 👥 **Technical Lead & Hackathon Coordinator — NMIMS MPSTME Technical Clubs** *(2024 – Present)*
+  * Led student teams in national hackathons and mentored peers in full-stack MERN architecture and algorithmic problem solving.
+
+---
+
+### 🎓 Education & Academics
+
+* 🏛️ **Bachelor of Technology (B.Tech) in Information Technology** *(2023 – 2027)*  
+  **MPSTME, NMIMS University, Shirpur, Maharashtra**  
+  *Grade*: CGPA: 2.73/4.00 | *Accolades*: Hackathon Lead, Ambiora Code Vuyg Winner, SIH Finalist.
+* 🏫 **Higher Secondary Certificate (HSC - 12th)** *(2022 – 2023)*  
+  **R. C. Patel Junior College, Shirpur, Maharashtra**  
+  *Grade*: 84.33% | *Focus*: Mathematics, Physics, and Computer Science fundamentals.
+* 🎒 **Secondary School Certificate (SSC - 10th)** *(2020 – 2021)*  
+  **R. C. Patel Secondary School, Shirpur, Maharashtra**  
+  *Grade*: 93.33% | *Distinction in Science & Mathematics*.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PREM-A261/PREM-A261/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+### 📊 Active Streak & GitHub Metrics
+
+<div align="center">
+
+  <!-- Active Streak Flame Card -->
+  <img src="https://streak-stats.demolab.com/?user=PREM-A261&theme=tokyonight&hide_border=true&ring=6366F1&fire=F59E0B&currStreakNum=6366F1&currStreakLabel=0EA5E9&background=0F172A" width="90%" alt="GitHub Active Streak" />
+
+  <br/><br/>
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=PREM-A261&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=0ea5e9&text_color=94a3b8&bg_color=0f172a" height="175" alt="Prem's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM-A261&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0f172a" height="175" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -104,35 +164,6 @@ status: 🟢 Open to Software Engineering & Data Internships / Collaborations
 
 ---
 
-### 📊 GitHub Activity & Active Streak
-
-<div align="center">
-
-  <!-- Active Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREM-A261&theme=tokyo-night&hide_border=true&area=true&color=6366f1" width="100%" alt="GitHub Activity Graph" />
-
-  <br/><br/>
-
-  <!-- Active Streak & Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PREM-A261&theme=tokyonight&hide_border=true&ring=6366f1&fire=f59e0b&currStreakNum=6366f1&currStreakLabel=0ea5e9&background=0f172a" width="85%" alt="GitHub Active Streak" />
-
-  <br/><br/>
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PREM-A261&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=0ea5e9&text_color=94a3b8&bg_color=0f172a" height="175" alt="Prem's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREM-A261&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0f172a" height="175" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
 ### 🏆 Key Honors & Certifications
 
 - 🥇 **1st Place** — *Ambiora-2026 Code Vuyg National Hackathon* (NMIMS University)
@@ -161,6 +192,6 @@ Whether you have an interesting project idea, an open engineering role, or just 
 </p>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,3b82f6,0ea5e9,10b981&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
