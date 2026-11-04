@@ -27,7 +27,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 ```yaml
 name: Prem Pawar
@@ -184,7 +184,7 @@ status: 🟢 Open to Software Engineering & Data Internships / Collaborations
 
 <div align="center">
 
-Whether you have an interesting project idea, an open engineering role, or just want to discuss tech & system design, feel free to reach out!
+Whether you have an interesting project idea, an open engineering role, or just want to discuss tech and system design, feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prem-pawar-b32124291/" target="_blank">
