@@ -168,7 +168,7 @@ status: 🟢 Open to Software Engineering & Data Internships / Collaborations
 
 ---
 
-### 🏆 Key Honors & Certifications
+### 🏆 Key Honors & Certifications 
 
 - 🥇 **1st Place** — *Ambiora-2026 Code Vuyg National Hackathon* (NMIMS University)
 - 🥈 **1st Runner Up** — *Ambiora-2026 Pitch Your App Competition*
